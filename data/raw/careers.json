@@ -1,0 +1,1102 @@
+[
+  {
+    "name": "Software Engineer",
+    "domain": "Technology",
+    "mbti_match": [
+      "INTJ",
+      "INTP",
+      "ENTP",
+      "ISTP",
+      "ENTJ"
+    ],
+    "required_skills": [
+      "Python",
+      "Java",
+      "Problem Solving",
+      "Critical Thinking",
+      "Teamwork"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Teamwork"
+    ]
+  },
+  {
+    "name": "Data Scientist",
+    "domain": "Technology",
+    "mbti_match": [
+      "INTP",
+      "INTJ",
+      "ENTP",
+      "ISTJ",
+      "INFJ"
+    ],
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Statistics",
+      "Data Analysis",
+      "Research"
+    ],
+    "soft_skills": [
+      "Critical Thinking",
+      "Communication"
+    ]
+  },
+  {
+    "name": "Cybersecurity Analyst",
+    "domain": "Technology",
+    "mbti_match": [
+      "ISTJ",
+      "INTJ",
+      "ISTP",
+      "INTP",
+      "ESTJ"
+    ],
+    "required_skills": [
+      "Cybersecurity",
+      "Networking",
+      "Risk Assessment",
+      "Critical Thinking",
+      "Python"
+    ],
+    "soft_skills": [
+      "Attention to Detail",
+      "Problem Solving"
+    ]
+  },
+  {
+    "name": "DevOps Engineer",
+    "domain": "Technology",
+    "mbti_match": [
+      "ISTP",
+      "INTP",
+      "ENTP",
+      "INTJ",
+      "ESTP"
+    ],
+    "required_skills": [
+      "Cloud Computing",
+      "Python",
+      "Networking",
+      "Systems Thinking",
+      "Collaboration"
+    ],
+    "soft_skills": [
+      "Adaptability",
+      "Communication"
+    ]
+  },
+  {
+    "name": "AI Researcher",
+    "domain": "Technology",
+    "mbti_match": [
+      "INTP",
+      "INTJ",
+      "INFJ",
+      "ENTP",
+      "INFP"
+    ],
+    "required_skills": [
+      "Machine Learning",
+      "Python",
+      "Research",
+      "Statistics",
+      "Innovation"
+    ],
+    "soft_skills": [
+      "Creativity",
+      "Critical Thinking"
+    ]
+  },
+  {
+    "name": "UX Designer",
+    "domain": "Technology",
+    "mbti_match": [
+      "INFP",
+      "ENFP",
+      "INFJ",
+      "ISFP",
+      "ENFJ"
+    ],
+    "required_skills": [
+      "Design Thinking",
+      "Prototyping",
+      "Visual Design",
+      "Research",
+      "Empathy"
+    ],
+    "soft_skills": [
+      "Creativity",
+      "Communication"
+    ]
+  },
+  {
+    "name": "Product Manager",
+    "domain": "Technology",
+    "mbti_match": [
+      "ENTJ",
+      "ENFJ",
+      "ENTP",
+      "ESTJ",
+      "INTJ"
+    ],
+    "required_skills": [
+      "Project Planning",
+      "Leadership",
+      "Decision Making",
+      "Communication",
+      "Teamwork"
+    ],
+    "soft_skills": [
+      "Negotiation",
+      "Strategic Thinking"
+    ]
+  },
+  {
+    "name": "Network Engineer",
+    "domain": "Technology",
+    "mbti_match": [
+      "ISTJ",
+      "ISTP",
+      "ESTJ",
+      "INTJ",
+      "INTP"
+    ],
+    "required_skills": [
+      "Networking",
+      "Cybersecurity",
+      "Systems Thinking",
+      "SQL",
+      "Cloud Computing"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Detail Orientation"
+    ]
+  },
+  {
+    "name": "Cloud Architect",
+    "domain": "Technology",
+    "mbti_match": [
+      "INTJ",
+      "ENTJ",
+      "INTP",
+      "ISTJ",
+      "ENTP"
+    ],
+    "required_skills": [
+      "Cloud Computing",
+      "Systems Thinking",
+      "Python",
+      "Networking",
+      "Decision Making"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Strategic Thinking"
+    ]
+  },
+  {
+    "name": "Database Administrator",
+    "domain": "Technology",
+    "mbti_match": [
+      "ISTJ",
+      "INTJ",
+      "ISTP",
+      "ESTJ",
+      "INTP"
+    ],
+    "required_skills": [
+      "SQL",
+      "Data Analysis",
+      "Systems Thinking",
+      "Python",
+      "Process Optimization"
+    ],
+    "soft_skills": [
+      "Precision",
+      "Reliability"
+    ]
+  },
+  {
+    "name": "Financial Analyst",
+    "domain": "Business",
+    "mbti_match": [
+      "INTJ",
+      "ISTJ",
+      "ENTJ",
+      "ESTJ",
+      "INTP"
+    ],
+    "required_skills": [
+      "Financial Analysis",
+      "Data Interpretation",
+      "Statistics",
+      "Excel",
+      "Forecasting"
+    ],
+    "soft_skills": [
+      "Attention to Detail",
+      "Communication"
+    ]
+  },
+  {
+    "name": "Marketing Manager",
+    "domain": "Business",
+    "mbti_match": [
+      "ENFP",
+      "ENFJ",
+      "ENTP",
+      "ESFJ",
+      "ENTJ"
+    ],
+    "required_skills": [
+      "Content Creation",
+      "Communication",
+      "Creativity",
+      "Research",
+      "Storytelling"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Persuasion"
+    ]
+  },
+  {
+    "name": "HR Manager",
+    "domain": "Business",
+    "mbti_match": [
+      "ENFJ",
+      "ESFJ",
+      "INFJ",
+      "ISFJ",
+      "ENFP"
+    ],
+    "required_skills": [
+      "Communication",
+      "Empathy",
+      "Conflict Resolution",
+      "Leadership",
+      "Mentoring"
+    ],
+    "soft_skills": [
+      "Empathy",
+      "Organisation"
+    ]
+  },
+  {
+    "name": "Business Consultant",
+    "domain": "Business",
+    "mbti_match": [
+      "ENTJ",
+      "ENTP",
+      "INTJ",
+      "ESTJ",
+      "INTP"
+    ],
+    "required_skills": [
+      "Critical Thinking",
+      "Communication",
+      "Research Analysis",
+      "Decision Making",
+      "Negotiation"
+    ],
+    "soft_skills": [
+      "Adaptability",
+      "Leadership"
+    ]
+  },
+  {
+    "name": "Project Manager",
+    "domain": "Business",
+    "mbti_match": [
+      "ESTJ",
+      "ENTJ",
+      "ISTJ",
+      "ENFJ",
+      "INTJ"
+    ],
+    "required_skills": [
+      "Project Planning",
+      "Leadership",
+      "Communication",
+      "Risk Assessment",
+      "Teamwork"
+    ],
+    "soft_skills": [
+      "Organisation",
+      "Decision Making"
+    ]
+  },
+  {
+    "name": "Operations Manager",
+    "domain": "Business",
+    "mbti_match": [
+      "ESTJ",
+      "ISTJ",
+      "ENTJ",
+      "ESTP",
+      "INTJ"
+    ],
+    "required_skills": [
+      "Process Optimization",
+      "Leadership",
+      "Decision Making",
+      "Systems Thinking",
+      "Teamwork"
+    ],
+    "soft_skills": [
+      "Efficiency",
+      "Problem Solving"
+    ]
+  },
+  {
+    "name": "Sales Manager",
+    "domain": "Business",
+    "mbti_match": [
+      "ESTP",
+      "ENTJ",
+      "ENFJ",
+      "ESFJ",
+      "ENTP"
+    ],
+    "required_skills": [
+      "Negotiation",
+      "Communication",
+      "Leadership",
+      "Customer Service",
+      "Persuasion"
+    ],
+    "soft_skills": [
+      "Confidence",
+      "Resilience"
+    ]
+  },
+  {
+    "name": "Supply Chain Analyst",
+    "domain": "Business",
+    "mbti_match": [
+      "ISTJ",
+      "ESTJ",
+      "INTJ",
+      "INTP",
+      "ENTJ"
+    ],
+    "required_skills": [
+      "Data Analysis",
+      "Forecasting",
+      "Process Optimization",
+      "Systems Thinking",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Analytical Thinking",
+      "Coordination"
+    ]
+  },
+  {
+    "name": "Accountant",
+    "domain": "Business",
+    "mbti_match": [
+      "ISTJ",
+      "ISFJ",
+      "ESTJ",
+      "INTJ",
+      "INTP"
+    ],
+    "required_skills": [
+      "Financial Analysis",
+      "Data Interpretation",
+      "Statistics",
+      "Process Optimization",
+      "SQL"
+    ],
+    "soft_skills": [
+      "Precision",
+      "Reliability"
+    ]
+  },
+  {
+    "name": "Entrepreneur",
+    "domain": "Business",
+    "mbti_match": [
+      "ENTP",
+      "ENTJ",
+      "ENFP",
+      "ESTP",
+      "INTJ"
+    ],
+    "required_skills": [
+      "Innovation",
+      "Decision Making",
+      "Leadership",
+      "Risk Assessment",
+      "Communication"
+    ],
+    "soft_skills": [
+      "Resilience",
+      "Creativity"
+    ]
+  },
+  {
+    "name": "Graphic Designer",
+    "domain": "Creative Arts",
+    "mbti_match": [
+      "ISFP",
+      "INFP",
+      "ENFP",
+      "ISTP",
+      "ESTP"
+    ],
+    "required_skills": [
+      "Visual Design",
+      "Creativity",
+      "Design Thinking",
+      "Prototyping",
+      "Innovation"
+    ],
+    "soft_skills": [
+      "Attention to Detail",
+      "Communication"
+    ]
+  },
+  {
+    "name": "Content Writer",
+    "domain": "Creative Arts",
+    "mbti_match": [
+      "INFP",
+      "INFJ",
+      "ENFP",
+      "INTP",
+      "ISFP"
+    ],
+    "required_skills": [
+      "Writing",
+      "Research",
+      "Storytelling",
+      "Content Creation",
+      "Communication"
+    ],
+    "soft_skills": [
+      "Creativity",
+      "Discipline"
+    ]
+  },
+  {
+    "name": "Film Director",
+    "domain": "Creative Arts",
+    "mbti_match": [
+      "ENFJ",
+      "ENTJ",
+      "INFJ",
+      "ENFP",
+      "ENTP"
+    ],
+    "required_skills": [
+      "Storytelling",
+      "Leadership",
+      "Visual Design",
+      "Creativity",
+      "Communication"
+    ],
+    "soft_skills": [
+      "Vision",
+      "Collaboration"
+    ]
+  },
+  {
+    "name": "Animator",
+    "domain": "Creative Arts",
+    "mbti_match": [
+      "ISFP",
+      "INFP",
+      "INTP",
+      "ISTP",
+      "INFJ"
+    ],
+    "required_skills": [
+      "Visual Design",
+      "Creativity",
+      "Prototyping",
+      "Innovation",
+      "Design Thinking"
+    ],
+    "soft_skills": [
+      "Patience",
+      "Attention to Detail"
+    ]
+  },
+  {
+    "name": "Musician",
+    "domain": "Creative Arts",
+    "mbti_match": [
+      "ISFP",
+      "INFP",
+      "ENFP",
+      "ESFP",
+      "ENFJ"
+    ],
+    "required_skills": [
+      "Creativity",
+      "Storytelling",
+      "Innovation",
+      "Communication",
+      "Collaboration"
+    ],
+    "soft_skills": [
+      "Discipline",
+      "Expression"
+    ]
+  },
+  {
+    "name": "Game Designer",
+    "domain": "Creative Arts",
+    "mbti_match": [
+      "INTP",
+      "ENTP",
+      "INFP",
+      "ISTP",
+      "INTJ"
+    ],
+    "required_skills": [
+      "Design Thinking",
+      "Creativity",
+      "Python",
+      "Innovation",
+      "Prototyping"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Teamwork"
+    ]
+  },
+  {
+    "name": "Photographer",
+    "domain": "Creative Arts",
+    "mbti_match": [
+      "ISFP",
+      "INFP",
+      "ISTP",
+      "ESFP",
+      "ENFP"
+    ],
+    "required_skills": [
+      "Visual Design",
+      "Creativity",
+      "Innovation",
+      "Storytelling",
+      "Research"
+    ],
+    "soft_skills": [
+      "Observation",
+      "Patience"
+    ]
+  },
+  {
+    "name": "Interior Designer",
+    "domain": "Creative Arts",
+    "mbti_match": [
+      "ISFJ",
+      "INFJ",
+      "ESFJ",
+      "ISFP",
+      "INFP"
+    ],
+    "required_skills": [
+      "Visual Design",
+      "Design Thinking",
+      "Creativity",
+      "Research",
+      "Prototyping"
+    ],
+    "soft_skills": [
+      "Empathy",
+      "Communication"
+    ]
+  },
+  {
+    "name": "Illustrator",
+    "domain": "Creative Arts",
+    "mbti_match": [
+      "INFP",
+      "ISFP",
+      "INTP",
+      "INFJ",
+      "ISTP"
+    ],
+    "required_skills": [
+      "Visual Design",
+      "Creativity",
+      "Storytelling",
+      "Innovation",
+      "Design Thinking"
+    ],
+    "soft_skills": [
+      "Creativity",
+      "Attention to Detail"
+    ]
+  },
+  {
+    "name": "Copywriter",
+    "domain": "Creative Arts",
+    "mbti_match": [
+      "ENTP",
+      "ENFP",
+      "INFP",
+      "INTP",
+      "ENTJ"
+    ],
+    "required_skills": [
+      "Writing",
+      "Storytelling",
+      "Content Creation",
+      "Research",
+      "Communication"
+    ],
+    "soft_skills": [
+      "Persuasion",
+      "Creativity"
+    ]
+  },
+  {
+    "name": "Doctor",
+    "domain": "Healthcare",
+    "mbti_match": [
+      "INTJ",
+      "ISTJ",
+      "INFJ",
+      "ENTJ",
+      "ISFJ"
+    ],
+    "required_skills": [
+      "Critical Thinking",
+      "Research",
+      "Decision Making",
+      "Communication",
+      "Empathy"
+    ],
+    "soft_skills": [
+      "Empathy",
+      "Precision"
+    ]
+  },
+  {
+    "name": "Nurse",
+    "domain": "Healthcare",
+    "mbti_match": [
+      "ISFJ",
+      "ESFJ",
+      "INFJ",
+      "ENFJ",
+      "ISFP"
+    ],
+    "required_skills": [
+      "Empathy",
+      "Communication",
+      "Customer Service",
+      "Teamwork",
+      "Collaboration"
+    ],
+    "soft_skills": [
+      "Compassion",
+      "Resilience"
+    ]
+  },
+  {
+    "name": "Pharmacist",
+    "domain": "Healthcare",
+    "mbti_match": [
+      "ISTJ",
+      "INTJ",
+      "ISFJ",
+      "INTP",
+      "ESTJ"
+    ],
+    "required_skills": [
+      "Data Analysis",
+      "Research",
+      "Critical Thinking",
+      "Statistics",
+      "Process Optimization"
+    ],
+    "soft_skills": [
+      "Precision",
+      "Communication"
+    ]
+  },
+  {
+    "name": "Medical Researcher",
+    "domain": "Healthcare",
+    "mbti_match": [
+      "INTJ",
+      "INTP",
+      "INFJ",
+      "ISTJ",
+      "ENTP"
+    ],
+    "required_skills": [
+      "Research",
+      "Statistics",
+      "Data Analysis",
+      "Machine Learning",
+      "Critical Thinking"
+    ],
+    "soft_skills": [
+      "Curiosity",
+      "Precision"
+    ]
+  },
+  {
+    "name": "Physical Therapist",
+    "domain": "Healthcare",
+    "mbti_match": [
+      "ISFJ",
+      "ESFJ",
+      "ENFJ",
+      "INFJ",
+      "ISFP"
+    ],
+    "required_skills": [
+      "Empathy",
+      "Communication",
+      "Mentoring",
+      "Collaboration",
+      "Customer Service"
+    ],
+    "soft_skills": [
+      "Patience",
+      "Encouragement"
+    ]
+  },
+  {
+    "name": "Psychologist",
+    "domain": "Healthcare",
+    "mbti_match": [
+      "INFJ",
+      "INFP",
+      "ENFJ",
+      "ISFJ",
+      "INTJ"
+    ],
+    "required_skills": [
+      "Empathy",
+      "Communication",
+      "Research",
+      "Critical Thinking",
+      "Mentoring"
+    ],
+    "soft_skills": [
+      "Active Listening",
+      "Empathy"
+    ]
+  },
+  {
+    "name": "Nutritionist",
+    "domain": "Healthcare",
+    "mbti_match": [
+      "ISFJ",
+      "ESFJ",
+      "INFJ",
+      "ENFP",
+      "ISFP"
+    ],
+    "required_skills": [
+      "Research",
+      "Communication",
+      "Empathy",
+      "Data Analysis",
+      "Customer Service"
+    ],
+    "soft_skills": [
+      "Motivation",
+      "Education"
+    ]
+  },
+  {
+    "name": "Radiologist",
+    "domain": "Healthcare",
+    "mbti_match": [
+      "INTJ",
+      "ISTJ",
+      "INTP",
+      "ISTP",
+      "INFJ"
+    ],
+    "required_skills": [
+      "Data Interpretation",
+      "Critical Thinking",
+      "Research",
+      "Statistics",
+      "Systems Thinking"
+    ],
+    "soft_skills": [
+      "Precision",
+      "Attention to Detail"
+    ]
+  },
+  {
+    "name": "Surgeon",
+    "domain": "Healthcare",
+    "mbti_match": [
+      "INTJ",
+      "ENTJ",
+      "ISTJ",
+      "ISTP",
+      "ESTJ"
+    ],
+    "required_skills": [
+      "Decision Making",
+      "Critical Thinking",
+      "Risk Assessment",
+      "Research",
+      "Teamwork"
+    ],
+    "soft_skills": [
+      "Precision",
+      "Resilience"
+    ]
+  },
+  {
+    "name": "Biomedical Engineer",
+    "domain": "Healthcare",
+    "mbti_match": [
+      "INTJ",
+      "INTP",
+      "ISTJ",
+      "ENTP",
+      "ENTJ"
+    ],
+    "required_skills": [
+      "Machine Learning",
+      "Python",
+      "Research",
+      "Statistics",
+      "Innovation"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Precision"
+    ]
+  },
+  {
+    "name": "Teacher",
+    "domain": "Education",
+    "mbti_match": [
+      "ENFJ",
+      "ESFJ",
+      "INFJ",
+      "ISFJ",
+      "ENFP"
+    ],
+    "required_skills": [
+      "Communication",
+      "Mentoring",
+      "Public Speaking",
+      "Creativity",
+      "Empathy"
+    ],
+    "soft_skills": [
+      "Patience",
+      "Dedication"
+    ]
+  },
+  {
+    "name": "Professor",
+    "domain": "Education",
+    "mbti_match": [
+      "INTJ",
+      "INFJ",
+      "ENTP",
+      "INTP",
+      "ENTJ"
+    ],
+    "required_skills": [
+      "Research",
+      "Communication",
+      "Public Speaking",
+      "Critical Thinking",
+      "Writing"
+    ],
+    "soft_skills": [
+      "Expertise",
+      "Mentoring"
+    ]
+  },
+  {
+    "name": "School Counselor",
+    "domain": "Education",
+    "mbti_match": [
+      "INFJ",
+      "ENFJ",
+      "ISFJ",
+      "INFP",
+      "ESFJ"
+    ],
+    "required_skills": [
+      "Empathy",
+      "Communication",
+      "Mentoring",
+      "Conflict Resolution",
+      "Research"
+    ],
+    "soft_skills": [
+      "Active Listening",
+      "Compassion"
+    ]
+  },
+  {
+    "name": "Curriculum Designer",
+    "domain": "Education",
+    "mbti_match": [
+      "INTJ",
+      "INFJ",
+      "ISTJ",
+      "ENFJ",
+      "INFP"
+    ],
+    "required_skills": [
+      "Research",
+      "Writing",
+      "Design Thinking",
+      "Critical Thinking",
+      "Project Planning"
+    ],
+    "soft_skills": [
+      "Creativity",
+      "Organisation"
+    ]
+  },
+  {
+    "name": "Education Researcher",
+    "domain": "Education",
+    "mbti_match": [
+      "INTJ",
+      "INTP",
+      "INFJ",
+      "INFP",
+      "ISTJ"
+    ],
+    "required_skills": [
+      "Research",
+      "Data Analysis",
+      "Writing",
+      "Statistics",
+      "Critical Thinking"
+    ],
+    "soft_skills": [
+      "Curiosity",
+      "Precision"
+    ]
+  },
+  {
+    "name": "Corporate Trainer",
+    "domain": "Education",
+    "mbti_match": [
+      "ENFJ",
+      "ENTJ",
+      "ESFJ",
+      "ESTJ",
+      "ENFP"
+    ],
+    "required_skills": [
+      "Public Speaking",
+      "Communication",
+      "Mentoring",
+      "Leadership",
+      "Storytelling"
+    ],
+    "soft_skills": [
+      "Energy",
+      "Adaptability"
+    ]
+  },
+  {
+    "name": "Librarian",
+    "domain": "Education",
+    "mbti_match": [
+      "ISFJ",
+      "INFJ",
+      "ISTJ",
+      "INFP",
+      "ISFP"
+    ],
+    "required_skills": [
+      "Research",
+      "Communication",
+      "Data Analysis",
+      "Writing",
+      "Customer Service"
+    ],
+    "soft_skills": [
+      "Organisation",
+      "Patience"
+    ]
+  },
+  {
+    "name": "Tutor",
+    "domain": "Education",
+    "mbti_match": [
+      "INFP",
+      "INFJ",
+      "ENFJ",
+      "ISFJ",
+      "INTP"
+    ],
+    "required_skills": [
+      "Communication",
+      "Empathy",
+      "Mentoring",
+      "Critical Thinking",
+      "Research"
+    ],
+    "soft_skills": [
+      "Patience",
+      "Encouragement"
+    ]
+  },
+  {
+    "name": "Academic Advisor",
+    "domain": "Education",
+    "mbti_match": [
+      "ENFJ",
+      "INFJ",
+      "ESFJ",
+      "ISFJ",
+      "ENFP"
+    ],
+    "required_skills": [
+      "Communication",
+      "Empathy",
+      "Mentoring",
+      "Decision Making",
+      "Research Analysis"
+    ],
+    "soft_skills": [
+      "Active Listening",
+      "Guidance"
+    ]
+  },
+  {
+    "name": "Special Education Teacher",
+    "domain": "Education",
+    "mbti_match": [
+      "ISFJ",
+      "ENFJ",
+      "INFJ",
+      "ESFJ",
+      "ISFP"
+    ],
+    "required_skills": [
+      "Empathy",
+      "Communication",
+      "Patience",
+      "Mentoring",
+      "Collaboration"
+    ],
+    "soft_skills": [
+      "Compassion",
+      "Creativity"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "model_type": "text_binary_logreg",
+  "text_source": "both",
+  "accuracy": 0.2901,
+  "macro_f1": 0.2722,
+  "weighted_f1": 0.2887,
+  "train_size": 66696,
+  "test_size": 16675,
+  "total_size": 83371,
+  "classes": 16,
+  "cv_folds": 0,
+  "dimension_metrics": {
+    "EI": {
+      "accuracy": 0.6773,
+      "macro_f1": 0.6541,
+      "avg_confidence": 0.6683
+    },
+    "NS": {
+      "accuracy": 0.6765,
+      "macro_f1": 0.666,
+      "avg_confidence": 0.6864
+    },
+    "TF": {
+      "accuracy": 0.6992,
+      "macro_f1": 0.6986,
+      "avg_confidence": 0.6958
+    },
+    "JP": {
+      "accuracy": 0.6527,
+      "macro_f1": 0.6522,
+      "avg_confidence": 0.6467
+    }
+  },
+  "class_weight": "balanced"
+}

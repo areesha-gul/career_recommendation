@@ -1,0 +1,111 @@
+{
+  "ENFJ": {
+    "precision": 0.8502415458937198,
+    "recall": 0.88,
+    "f1-score": 0.8648648648648649,
+    "support": 200.0
+  },
+  "ENFP": {
+    "precision": 0.8686868686868687,
+    "recall": 0.86,
+    "f1-score": 0.864321608040201,
+    "support": 200.0
+  },
+  "ENTJ": {
+    "precision": 0.8609625668449198,
+    "recall": 0.805,
+    "f1-score": 0.8320413436692506,
+    "support": 200.0
+  },
+  "ENTP": {
+    "precision": 0.8536585365853658,
+    "recall": 0.875,
+    "f1-score": 0.8641975308641975,
+    "support": 200.0
+  },
+  "ESFJ": {
+    "precision": 0.8375634517766497,
+    "recall": 0.825,
+    "f1-score": 0.8312342569269522,
+    "support": 200.0
+  },
+  "ESFP": {
+    "precision": 0.8465346534653465,
+    "recall": 0.855,
+    "f1-score": 0.8507462686567164,
+    "support": 200.0
+  },
+  "ESTJ": {
+    "precision": 0.837696335078534,
+    "recall": 0.8,
+    "f1-score": 0.8184143222506394,
+    "support": 200.0
+  },
+  "ESTP": {
+    "precision": 0.8737373737373737,
+    "recall": 0.865,
+    "f1-score": 0.8693467336683417,
+    "support": 200.0
+  },
+  "INFJ": {
+    "precision": 0.8407960199004975,
+    "recall": 0.845,
+    "f1-score": 0.8428927680798005,
+    "support": 200.0
+  },
+  "INFP": {
+    "precision": 0.868020304568528,
+    "recall": 0.855,
+    "f1-score": 0.8614609571788413,
+    "support": 200.0
+  },
+  "INTJ": {
+    "precision": 0.8495145631067961,
+    "recall": 0.875,
+    "f1-score": 0.8620689655172413,
+    "support": 200.0
+  },
+  "INTP": {
+    "precision": 0.8325358851674641,
+    "recall": 0.87,
+    "f1-score": 0.8508557457212714,
+    "support": 200.0
+  },
+  "ISFJ": {
+    "precision": 0.8113207547169812,
+    "recall": 0.86,
+    "f1-score": 0.8349514563106796,
+    "support": 200.0
+  },
+  "ISFP": {
+    "precision": 0.8472906403940886,
+    "recall": 0.86,
+    "f1-score": 0.8535980148883374,
+    "support": 200.0
+  },
+  "ISTJ": {
+    "precision": 0.8497409326424871,
+    "recall": 0.82,
+    "f1-score": 0.8346055979643766,
+    "support": 200.0
+  },
+  "ISTP": {
+    "precision": 0.8402061855670103,
+    "recall": 0.815,
+    "f1-score": 0.8274111675126904,
+    "support": 200.0
+  },
+  "accuracy": 0.8478125,
+  "macro avg": {
+    "precision": 0.8480316636332894,
+    "recall": 0.8478125,
+    "f1-score": 0.8476882251321501,
+    "support": 3200.0
+  },
+  "weighted avg": {
+    "precision": 0.8480316636332893,
+    "recall": 0.8478125,
+    "f1-score": 0.8476882251321501,
+    "support": 3200.0
+  }
+}

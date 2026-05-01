@@ -1,0 +1,50 @@
+{
+  "Technical": [
+    "Python",
+    "Java",
+    "SQL",
+    "Machine Learning",
+    "Data Analysis",
+    "Cloud Computing",
+    "Networking",
+    "Cybersecurity",
+    "Web Development",
+    "Statistics"
+  ],
+  "Interpersonal": [
+    "Communication",
+    "Leadership",
+    "Teamwork",
+    "Negotiation",
+    "Mentoring",
+    "Conflict Resolution",
+    "Public Speaking",
+    "Customer Service",
+    "Empathy",
+    "Collaboration"
+  ],
+  "Creative": [
+    "Design Thinking",
+    "Content Creation",
+    "Storytelling",
+    "Visual Design",
+    "Innovation",
+    "Problem Solving",
+    "Creativity",
+    "Writing",
+    "Research",
+    "Prototyping"
+  ],
+  "Analytical": [
+    "Critical Thinking",
+    "Data Interpretation",
+    "Financial Analysis",
+    "Risk Assessment",
+    "Project Planning",
+    "Decision Making",
+    "Systems Thinking",
+    "Research Analysis",
+    "Forecasting",
+    "Process Optimization"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "model_type": "questionnaire_dt",
+  "accuracy": 0.8478,
+  "macro_f1": 0.8477,
+  "weighted_f1": 0.8477,
+  "train_size": 12800,
+  "test_size": 3200,
+  "total_size": 16000,
+  "classes": 16,
+  "cv_folds": 3,
+  "noise_added": true,
+  "noise_level": 0.03,
+  "cv_macro_f1_mean": 0.846,
+  "cv_macro_f1_std": 0.0061
+}

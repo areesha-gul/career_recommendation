@@ -1,0 +1,22 @@
+{
+  "EI": {
+    "accuracy": 0.9725,
+    "macro_f1": 0.9725,
+    "calibration_method": "sigmoid"
+  },
+  "NS": {
+    "accuracy": 0.9722,
+    "macro_f1": 0.9722,
+    "calibration_method": "sigmoid"
+  },
+  "TF": {
+    "accuracy": 0.9463,
+    "macro_f1": 0.9463,
+    "calibration_method": "sigmoid"
+  },
+  "JP": {
+    "accuracy": 0.9691,
+    "macro_f1": 0.9691,
+    "calibration_method": "sigmoid"
+  }
+}
